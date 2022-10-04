@@ -1,1 +1,7 @@
 This is the first text file.
+
+Groceries:
+
+1. apples
+2. bananas
+3. cantalope
