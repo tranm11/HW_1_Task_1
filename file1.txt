@@ -5,3 +5,6 @@ Groceries:
 1. apples
 2. bananas
 3. cantalope
+4. dragonfruit
+5. eggplant
+6. fennel
